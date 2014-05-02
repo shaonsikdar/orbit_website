@@ -1,0 +1,108 @@
+<ul id="my_gallery" class="og-grid">
+						<li class="mix web_design">
+							<a href="images/assets/work1.jpg" data-gal="lightbox[folio]"><img src="images/assets/work1.jpg" alt=""></a>
+							<div class="overlay">
+								<a class="like_work" href="#" title="Like"> <i class="fa fa-heart mi"></i>25 </a>
+								<p> Output:4 - 60BHP 
+40 - 600kW
+Output:134k - 2MMBtu/hr 
+34k - 508kkcal/hr. </p>
+							</div><!-- /overlay -->
+							<div class="meta_work">
+								<a class="w_title" href="single_work.html" target="_blank"> Classic (ICS / FB-A)  </a>
+								<div class="meta">
+									<span>  Vertical Tubeless Steam Boiler </span>
+								</div><!-- /meta -->
+							</div><!-- /meta work -->
+						</li><!-- /item -->
+
+						<li class="mix icons">
+							<a href="images/assets/work3.jpg" data-gal="lightbox[folio]"><img src="images/assets/work3.jpg" alt=""></a>
+							<div class="overlay">
+								<a class="like_work" href="#" title="Like"> <i class="fa fa-heart mi"></i>7 </a>
+								<p> Name: Horizontal fuel-fired reverse flame wet-back steam boiler
+Number: RB
+Manufactured by: Fulton China
+Steam output: 1t/h-5t/h (60BHP-300BHP). </p>
+							</div><!-- /overlay -->
+							<div class="meta_work">
+								<a class="w_title" href="single_work_rb.html" target="_blank"> RB </a>
+								<div class="meta">
+									<span> Horizontal fuel-fired reverse flame wet-back steam boiler </span>
+								</div><!-- /meta -->
+							</div><!-- /meta work -->
+						</li><!-- /item -->
+
+						<li class="mix web_design">
+							<a href="images/assets/work4.jpg" data-gal="lightbox[folio]"><img src="images/assets/work4.jpg" alt=""></a>
+							<div class="overlay">
+								<a class="like_work" href="#" title="Like"> <i class="fa fa-heart mi"></i>97 </a>
+								<p>Output:4 - 30BHP 
+39 - 294kW
+Output:134k - 1MMBtu/hr 
+34k - 254kkcal/hr. </p>
+							</div><!-- /overlay -->
+							<div class="meta_work">
+								<a class="w_title" href="single_work _edge.html" target="_blank"> Edge (ICX / FB-F) </a>
+								<div class="meta">
+									<span> Vertical Tubeless Steam Boiler </span>
+								</div><!-- /meta -->
+							</div><!-- /meta work -->
+						</li><!-- /item -->
+
+						<li class="mix icons">
+							<a href="images/assets/work5.jpg" data-gal="lightbox[folio]"><img src="images/assets/work5.jpg" alt=""></a>
+							<div class="overlay">
+								<a class="like_work" href="#" title="Like"> <i class="fa fa-heart mi"></i>51 </a>
+								<p> 
+Name: Horizontal 3-pass/4-pass steam boiler
+Number: FB-C
+Manufactured by: Fulton China
+Steam output: 5t/h-25t/h (300BHP-1650BHP)
+Boiler code: Chinese/ASME/PED </p>
+							</div><!-- /overlay -->
+							<div class="meta_work">
+								<a class="w_title" href="single_work_fb-c.html" target="_blank"> FB-C </a>
+								<div class="meta">
+									<span> Horizontal 3-pass/4-pass steam boiler </span>
+								</div><!-- /meta -->
+							</div><!-- /meta work -->
+						</li><!-- /item -->
+
+						<li class="mix icons">
+							<a href="images/assets/work6.jpg" data-gal="lightbox[folio]"><img src="images/assets/work6.jpg" alt=""></a>
+							<div class="overlay">
+								<a class="like_work" href="#" title="Like"> <i class="fa fa-heart mi"></i>13 </a>
+								<p>Name: Horizontal 3-pass wet-back steam boiler
+Number: FB-S
+Manufactured by: Fulton China
+Steam output: 1t/h-6t/h (60BHP-400BHP)
+Boiler code: Chinese/ASME/PED </p>
+							</div><!-- /overlay -->
+							<div class="meta_work">
+								<a class="w_title" href="single_work_fb-s.html" target="_blank"> FB-S </a>
+								<div class="meta">
+									<span>  Horizontal 3-pass wet-back steam boiler </span>
+								</div><!-- /meta -->
+							</div><!-- /meta work -->
+						</li><!-- /item -->
+
+						<li class="mix web_design">
+							<a href="images/assets/work7.jpg" data-gal="lightbox[folio]"><img src="images/assets/work7.jpg" alt=""></a>
+							<div class="overlay">
+								<a class="like_work" href="#" title="Like"> <i class="fa fa-heart mi"></i>45 </a>
+								<p> Output: 40 - 150BHP 
+392 - 1471kW
+Output:1.3MM - 5MMBtu/hr 
+337k - 1.3MMkcal/hr. </p>
+							</div><!-- /overlay -->
+							<div class="meta_work">
+								<a class="w_title" href="single_work_verticle.html" target="_blank"> Vertical Multi-Port (VMP) </a>
+								<div class="meta">
+									<span> Steam Boiler </span>
+								</div><!-- /meta -->
+							</div><!-- /meta work -->
+						</li><!-- /item -->
+
+						<!-- /dont remove this line --><li class="gap"></li>
+					</ul><!-- /my gallery -->
